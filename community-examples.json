@@ -432,5 +432,10 @@
     "name": "vanity-stargazer",
     "description": "Github vanity-stargazer is a serverless application to handle posting Github new star gazers to Slack",
     "githubUrl": "https://github.com/silvermullet/vanity-stargazer"
+  },
+  {
+    "name": "Serverless Typescript GraphQl and Redis API",
+    "description": "CRUD application handling comments",
+    "githubUrl": "https://github.com/AyoubEd/serverless_typescript_graphQl_commentingService"
   }
 ]
